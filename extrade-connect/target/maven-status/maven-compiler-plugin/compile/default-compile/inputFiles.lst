@@ -1,0 +1,16 @@
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/manager/NotificationManager.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/Attachment.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/notification/MailNotification.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/InlineAttachment.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/manager/DefaultNotificationManagerImpl.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/service/TextMessageServiceImpl.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/service/MessageService.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/service/MailMessageServiceImpl.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/preparator/ThymeleafMessagePreparatorImpl.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/notification/Notification.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/message/Message.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/AttachmentType.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/exception/ExtradeConnectException.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/preparator/MessagePreparator.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/beans/message/MailMessage.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect/src/main/java/com/extrade/connect/exception/MailMessageAttachmentsFailedException.java

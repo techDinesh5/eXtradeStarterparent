@@ -1,0 +1,4 @@
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/ThymeleafMessagePreparatorAutoConfiguration.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect-starter/src/main/java/com/extrade/autoconfigure/notification/DefaultNoticationManagerAutoConfiguration.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/MailMessageServiceAutoConfiguration.java
+/Users/sriman/scratch/labs/javarealtimeproject/20240124/projectworkspace/extrade-connect-parent/extrade-connect-starter/src/main/java/com/extrade/autoconfigure/message/TextMessageServiceAutoConfiguration.java
